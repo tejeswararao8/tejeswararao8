@@ -90,7 +90,7 @@ Jenkins
 
 # 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer with around 4 years of experience**
+I'm a **Java Full Stack Developer with around 4+ years of experience**
 building scalable and maintainable enterprise applications.
 
 My experience spans **Banking, Financial Services, CRM, Healthcare,
