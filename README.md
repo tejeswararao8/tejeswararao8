@@ -1,13 +1,20 @@
 <div align="center">
 
-# TAVVA TEJESWARA RAO
+# 👋 Hi, I'm Tavva Tejeswara Rao
 
-### Java Full Stack Developer
+### 💻 Java Full Stack Developer
 
-**Building scalable enterprise applications across Financial Services,
-Banking, CRM & Healthcare**
+**Building scalable enterprise applications with Java, Spring Boot,
+Angular, Microservices & Event-Driven Architecture**
 
-<br/>
+<br>
+
+<img src="https://img.shields.io/badge/Java-Full%20Stack%20Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Enterprise%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-2C3E50?style=for-the-badge"/>
+
+<br><br>
 
 <a href="https://github.com/tejeswararao8">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -17,247 +24,614 @@ Banking, CRM & Healthcare**
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
+
+📍 Hyderabad, India &nbsp; | &nbsp; 🏦 Financial Services &nbsp; | &nbsp; 🚀 Enterprise Applications
+
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
+
+## 🚀 Engineering at a Glance
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### ☕
+**Backend**
+
+Java  
+Spring Boot  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+**Architecture**
+
+Microservices  
+Kafka  
+API Integration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**Frontend**
+
+Angular  
+TypeScript  
+JavaScript
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+**Cloud & DevOps**
+
+AWS  
+Docker  
+Jenkins
+
+</td>
+</tr>
+</table>
+
+---
+
+# 👨‍💻 About Me
 
 I'm a **Java Full Stack Developer with around 4 years of experience**
 building scalable and maintainable enterprise applications.
 
-My experience spans **Banking, Financial Services, CRM, Healthcare
-and Payment Processing** systems.
+My experience spans **Banking, Financial Services, CRM, Healthcare,
+and Payment Processing** domains.
 
-I work across the full application lifecycle — from designing
-REST APIs and microservices to developing Angular interfaces,
-integrating databases, implementing security, and supporting
-CI/CD and cloud deployments.
+I work across the complete application lifecycle — from backend
+service development and REST API integration to Angular frontend
+development, database integration, security, event-driven
+architecture, CI/CD and cloud environments.
 
-### What I focus on
+### 🔍 What I Work On
 
-- ⚙️ Backend engineering with Java & Spring Boot
-- 🧩 Microservices & distributed systems
-- 🌐 Angular & TypeScript applications
+- ☕ Java & Spring Boot application development
+- 🧩 Microservices architecture
 - 🔗 REST API development & integration
-- ⚡ Event-driven systems with Apache Kafka
-- 🔐 Spring Security & JWT
-- ☁️ AWS & Docker
-- 🚀 Jenkins & CI/CD
-- 🗄️ MySQL & PostgreSQL
+- 🌐 Angular & TypeScript frontend development
+- ⚡ Event-driven applications using Apache Kafka
+- 🔐 Spring Security & JWT authentication
+- 🗄️ MySQL & PostgreSQL database development
+- ☁️ AWS cloud services
+- 🐳 Docker-based deployments
+- 🔄 Jenkins & CI/CD pipelines
+- 📊 Application monitoring and troubleshooting
 
 ---
 
 # 🛠️ Technology Stack
 
-### Backend
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-</p>
+### 💻 Programming Languages
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" />
 
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+<br><br>
 
-### Architecture & APIs
+### ⚙️ Backend & Frameworks
 
-<p>
-<img src="https://img.shields.io/badge/Microservices-2C3E50?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,kafka" />
 
-### Database
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+### 🌐 Frontend
 
-### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git- F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,maven,git,github" />
+
+</div>
+
+### Core Technologies
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, TypeScript |
+| **Backend** | Spring Boot, Spring Security, JPA, Hibernate |
+| **Architecture** | Microservices, REST APIs, API Orchestration |
+| **Messaging** | Apache Kafka |
+| **Frontend** | Angular, TypeScript, HTML, CSS, JavaScript |
+| **Database** | MySQL, PostgreSQL |
+| **Security** | Spring Security, JWT |
+| **Cloud** | AWS |
+| **DevOps** | Jenkins, Docker, Maven, CI/CD |
+| **Testing & Tools** | JUnit, Swagger, Git, Grafana, Loggly |
 
 ---
 
 # 💼 Enterprise Experience
 
+<div align="center">
+
+### Building software for real-world enterprise environments
+
+</div>
+
+---
+
 ## 🏦 Financial Services & Banking
 
-Experience working on high-volume financial applications
-supporting transaction processing and enterprise workflows.
+**Enterprise Banking Platform**
 
-**Key areas**
+Worked on high-volume financial services applications supporting
+transaction processing, account management and enterprise workflows.
 
-`Spring Boot` · `Microservices` · `REST APIs` · `Kafka`
-· `Angular` · `AWS` · `CI/CD`
+### Key Contributions
 
-- Developed scalable backend services
-- Worked with layered architecture
-- Implemented API orchestration
-- Integrated Angular applications with backend APIs
-- Used asynchronous processing for downstream services
-- Worked with event-driven architecture using Kafka
-- Investigated UAT and application issues
+- Developed backend services using **Java & Spring Boot**
+- Worked with **microservices architecture**
+- Implemented layered application architecture
+- Developed **API orchestration** workflows
+- Integrated Angular frontend applications with backend APIs
+- Used `CompletableFuture` for parallel downstream service calls
+- Implemented event-driven architecture using **Apache Kafka**
+- Investigated UAT issues and end-to-end data flows
+- Used application logs and monitoring tools for troubleshooting
+
+### Technologies
+
+`Java` `Spring Boot` `Angular` `Microservices` `Kafka`
+`REST APIs` `AWS` `Loggly`
 
 ---
 
-## 🤝 CRM Applications
+## 🤝 Enterprise CRM Platform
 
-Contributed to enterprise CRM applications supporting
-employee collaboration and business workflows.
+**Internal CRM Application**
 
-**Key areas**
+Contributed to a full-stack CRM platform supporting employee
+collaboration, communication and business workflows.
 
-`Angular` · `Spring Boot` · `Kafka` · `AWS` · `Jenkins` · `Docker`
+### Key Contributions
 
-- Developed Angular UI components
-- Integrated frontend and backend services
+- Developed Angular-based frontend components
+- Integrated frontend applications with backend services
 - Developed scalable backend services
-- Implemented asynchronous communication
+- Implemented asynchronous communication using Kafka
+- Worked with AWS services
 - Supported CI/CD pipelines
-- Worked with cloud infrastructure
+- Worked with Jenkins and Docker
+
+### Technologies
+
+`Java` `Spring Boot` `Angular` `Kafka`
+`AWS` `Docker` `Jenkins`
 
 ---
 
-## 🏥 Healthcare Systems
+## 🏥 Healthcare Data Processing
 
-Worked on healthcare record processing applications
-integrating with external systems.
+**Enterprise Healthcare Integration Platform**
 
-**Key areas**
+Worked on healthcare record-processing services integrating with
+external systems.
 
-`Spring Boot` · `REST APIs` · `File Processing`
-· `PDF Generation` · `Kubernetes` · `Grafana`
+### Key Contributions
+
+- Developed REST APIs
+- Implemented multipart requests and file uploads
+- Added request validation and transformation
+- Developed PDF generation workflows
+- Implemented document merging
+- Integrated external APIs
+- Worked with Kubernetes Job Runner
+- Monitored applications using Grafana
+- Supported DEV and QA environments
+
+### Technologies
+
+`Java` `Spring Boot` `REST APIs`
+`Kubernetes` `Grafana` `PDF Processing`
 
 ---
 
 ## 💳 Payment Processing
 
-Worked on banking payment-processing systems handling
-bulk payment files and transaction workflows.
+**Bulk Payment Processing Engine**
 
-**Key areas**
+Worked on a high-volume banking transaction platform responsible
+for processing bulk payment files and transaction instructions.
 
-`Java` · `Spring Boot` · `ISO 20022`
-· `Spring Security` · `JWT` · `JPA/Hibernate`
+### Key Contributions
+
+- Developed Spring Boot microservices
+- Worked with ISO 20022 payment formats
+- Developed REST APIs for payment processing
+- Implemented file-level validation
+- Implemented transaction-level validation
+- Implemented authentication and authorization
+- Used Spring Security and JWT
+- Improved database interaction using JPA/Hibernate
+
+### Technologies
+
+`Java` `Spring Boot` `ISO 20022`
+`Spring Security` `JWT` `JPA` `Hibernate`
 
 ---
 
 # 🚀 Featured Projects
 
-## 👨‍💼 Employee Management System
+<div align="center">
+
+### Selected Development Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 👨‍💼 Employee Management
 
 **Full Stack Application**
 
-Java · Spring Boot · Angular · TypeScript
+A full-stack employee management application consisting of a
+Java/Spring Boot backend and Angular frontend.
 
-> Employee management application with backend REST services
-> and Angular-based frontend.
+### Tech Stack
 
-[Backend →](https://github.com/tejeswararao8/employeemanagementBE)
+`Java` `Spring Boot` `REST API`  
+`Angular` `TypeScript`
 
-[Frontend →](https://github.com/tejeswararao8/employeemanagementFE)
+### Components
 
----
+🔹 Backend REST APIs  
+🔹 Angular frontend  
+🔹 Employee management workflows  
+🔹 API integration
 
-## ⚡ Real-Time Group Chat
+<br>
+
+<a href="https://github.com/tejeswararao8/employeemanagementBE">
+<img src="https://img.shields.io/badge/Backend-View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/tejeswararao8/employeemanagementFE">
+<img src="https://img.shields.io/badge/Frontend-View%20Repository-0A66C2?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Group Chat with Kafka
 
 **Event-Driven Application**
 
-Java · Spring Boot · Apache Kafka
+A real-time group communication project demonstrating
+event-driven messaging with Apache Kafka.
 
-> Real-time communication application demonstrating
-> event-driven messaging using Apache Kafka.
+### Tech Stack
 
-[View Project →](https://github.com/tejeswararao8/Groupchatwithkafka)
+`Java` `Spring Boot`  
+`Apache Kafka`
 
----
+### Highlights
+
+🔹 Event-driven communication  
+🔹 Kafka messaging  
+🔹 Backend service integration  
+🔹 Real-time message processing
+
+<br>
+
+<a href="https://github.com/tejeswararao8/Groupchatwithkafka">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🔄 Data Migration & Synchronization
 
 **Enterprise Data Project**
 
-Java
+Project focused on data migration and synchronization between
+database systems.
 
-> Data migration and database synchronization project
-> focused on reliable enterprise data movement.
+### Tech Stack
 
-[View Project →](https://github.com/tejeswararao8/Data-Migration-and-Database-Synchronization-Project)
+`Java`  
+`Database`  
+`Data Synchronization`
 
----
+### Focus
+
+🔹 Data migration  
+🔹 Database synchronization  
+🔹 Enterprise data processing  
+🔹 Reliable data movement
+
+<br>
+
+<a href="https://github.com/tejeswararao8/Data-Migration-and-Database-Synchronization-Project">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🏫 School Portal
 
 **Enterprise Application**
 
-Java
+Application focused on school-related management workflows.
 
-> Application developed to manage school-related
-> workflows and information.
+### Tech Stack
 
-[View Project →](https://github.com/tejeswararao8/schoolportelproject)
+`Java`
 
----
+### Highlights
+
+🔹 Application workflows  
+🔹 Backend development  
+🔹 Enterprise application concepts  
+🔹 Data management
+
+<br>
+
+<a href="https://github.com/tejeswararao8/schoolportelproject">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🌦️ Weather Application
 
-**REST API Application**
+**API-Based Application**
 
-Java
+Application demonstrating integration with weather-related
+services and data retrieval.
 
-> Application demonstrating API integration and
-> weather-data retrieval.
+### Tech Stack
 
-[View Project →](https://github.com/tejeswararao8/weather-APP)
+`Java` `REST API`
+
+### Highlights
+
+🔹 API integration  
+🔹 Data retrieval  
+🔹 Application development
+
+<br>
+
+<a href="https://github.com/tejeswararao8/weather-APP">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 More Projects
+
+Explore additional repositories covering Java development,
+backend services, application development and experimentation.
+
+<br><br>
+
+<a href="https://github.com/tejeswararao8?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=tejeswararao8&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswararao8&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=tejeswararao8&theme=github-dark-blue&hide_border=true"
+height="180"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=tejeswararao8&theme=github-compact&hide_border=true&area=true"
+width="95%"
+/>
+
+</div>
 
 ---
 
 # 🎓 Education
 
-### M.Tech — Computer Science
+<table>
+<tr>
 
-Andhra University College of Engineering  
-2020 – 2022
+<td width="50%" valign="top">
 
-### B.Tech — Computer Science Engineering
+### 🎓 M.Tech — Computer Science
 
-Andhra University College of Engineering  
-2016 – 2020
+**Andhra University College of Engineering**
+
+📍 Visakhapatnam
+
+📅 2020 – 2022
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 B.Tech — Computer Science Engineering
+
+**Andhra University College of Engineering**
+
+📍 Visakhapatnam
+
+📅 2016 – 2020
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📜 Certifications
 
-- **Mastering Java Advanced Concepts: Streams & Lambdas** — Scaler
-- **Introduction to Java Spring Framework** — Simplilearn
-- **Software Engineering Job Simulation** — Hewlett Packard Enterprise / Forage
+### 🏅 Mastering Java Advanced Concepts: Streams & Lambdas
+
+**Scaler — January 2024**
+
+Advanced Java concepts including Streams API and functional
+programming.
+
+### 🏅 Introduction to Java Spring Framework
+
+**Simplilearn — September 2023**
+
+Spring and Spring Boot fundamentals for backend application
+development.
+
+### 🏅 Software Engineering Job Simulation
+
+**Hewlett Packard Enterprise / Forage — July 2024**
+
+Hands-on exposure to software engineering practices including
+Spring Boot and JUnit.
 
 ---
 
-# 📊 Engineering Focus
+# 🧠 Engineering Focus
+
+<div align="center">
+
+| 🔧 Area | 🎯 Focus |
+|---|---|
+| **Backend Engineering** | Java • Spring Boot • REST APIs |
+| **Architecture** | Microservices • API Orchestration |
+| **Event Driven Systems** | Apache Kafka |
+| **Frontend Engineering** | Angular • TypeScript |
+| **Security** | Spring Security • JWT |
+| **Database** | MySQL • PostgreSQL • JPA |
+| **Cloud** | AWS |
+| **DevOps** | Docker • Jenkins • CI/CD |
+| **Monitoring** | Grafana • Loggly |
+
+</div>
+
+---
+
+# 🌱 Currently Focused On
 
 ```text
-Backend Development        ████████████████████
-Microservices              ███████████████████
-REST API Development       ███████████████████
-Frontend Development       ████████████████
-Event Driven Architecture ███████████████
-Cloud & DevOps             █████████████
+Enterprise Application Development
+        ↓
+Microservices Architecture
+        ↓
+Event-Driven Systems
+        ↓
+Cloud & DevOps
+        ↓
+Scalable Full Stack Applications
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Interested in software engineering, enterprise applications
+### and building scalable systems?
+
+<br>
+
+<a href="https://in.linkedin.com/in/tejeswara-rao">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejeswararao8">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Java • Spring Boot • Angular • Microservices • Kafka • AWS**
+
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with Java • Spring Boot • Angular • Microservices • Kafka</sub>
+
+</div>
