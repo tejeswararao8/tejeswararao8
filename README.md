@@ -59,6 +59,8 @@ REST APIs
 Microservices  
 Kafka  
 API Integration
+API Orchestration 
+Design Patterns
 
 </td>
 
@@ -106,14 +108,17 @@ architecture, CI/CD and cloud environments.
 - ☕ Java & Spring Boot application development
 - 🧩 Microservices architecture
 - 🔗 REST API development & integration
+- 📘 Swagger / OpenAPI API documentation
+- 🏗️ API orchestration and service integration
 - 🌐 Angular & TypeScript frontend development
 - ⚡ Event-driven applications using Apache Kafka
-- 🔐 Spring Security & JWT authentication
+- 🔐 Spring Security, JWT & OAuth authentication 
 - 🗄️ MySQL & PostgreSQL database development
 - ☁️ AWS cloud services
 - 🐳 Docker-based deployments
 - 🔄 Jenkins & CI/CD pipelines
 - 📊 Application monitoring and troubleshooting
+- 🧪 Unit testing with JUnit
 
 ---
 
@@ -155,16 +160,18 @@ architecture, CI/CD and cloud environments.
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Java, JavaScript, TypeScript |
+| **Languages** | Java,C, JavaScript, TypeScript |
 | **Backend** | Spring Boot, Spring Security, JPA, Hibernate |
 | **Architecture** | Microservices, REST APIs, API Orchestration |
+| **API Documentation** | Swagger, OpenAPI |
+| **Design Patterns**   | Singleton, Builder, Strategy, Observer, Factory, Adapter |
 | **Messaging** | Apache Kafka |
 | **Frontend** | Angular, TypeScript, HTML, CSS, JavaScript |
 | **Database** | MySQL, PostgreSQL |
-| **Security** | Spring Security, JWT |
+| **Security** | Spring Security, JWT, OAuth 2.0 |
 | **Cloud** | AWS |
 | **DevOps** | Jenkins, Docker, Maven, CI/CD |
-| **Testing & Tools** | JUnit, Swagger, Git, Grafana, Loggly |
+| **Testing & Monitoring Tools** | JUnit, Git, Grafana, Loggly, Splunk |
 
 ---
 
